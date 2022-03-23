@@ -1,0 +1,21 @@
+form{
+    align-items: center;
+    text-align: center;
+    margin-top: 20em;
+}
+form input{
+    width: 50em;
+    height: 3rem;
+    position: relative;
+    border-radius: 30px;
+    padding-left: 50px;
+}
+img{
+    position: relative;
+    right: 41em;
+    top: 0.5em;
+}
+.imgs_2{
+    position: relative;
+    left: -5em;
+}
